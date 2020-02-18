@@ -1,0 +1,13 @@
+TABLE 1:
+Company,Contact,Country
+Alfreds Futterkiste,Maria Anders,Germany
+Centro comercial Moctezuma,Francisco Chang,Mexico
+Ernst Handel,Roland Mendel,Austria
+Island Trading,Helen Bennett,UK
+Laughing Bacchus Winecellars,Yoshi Tannamuri,Canada
+Magazzini Alimentari Riuniti,Giovanni Rovelli,Italy
+
+TABLE 2:
+Firstname,Lastname,Age
+Jill,Smith,50
+Eve,Jackson,94
