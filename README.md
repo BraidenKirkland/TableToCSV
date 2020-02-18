@@ -62,6 +62,7 @@ The code for the following tables was taken from https://www.w3schools.com/html/
 </table>
 
 **$ python table_to_csv.py < input.html > output.txt**<br/>
+<br/>
 The contents of output.txt are shown below. Notice that tables are labeled in the same order as they appear in the document.<br/>
 <br/>
 TABLE 1:<br/>
